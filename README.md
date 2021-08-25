@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ArekBerc</h1>  
 
 
-- 💼 I’m currently working as **Robotics Software Developer in Arche Robotics and ITU Rover Team**
+- 💼 I’m currently working as **Software Developer Intern in Eatron Technologies**
 - 🔭 I’m currently working on **Autonomous navigation algorithms of mobile robots**
 - 📫 How to reach me **arekberc@gmail.com**
 
